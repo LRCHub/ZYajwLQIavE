@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "グッドラッカー",
+  "base_artist": "美波",
+  "createdAt": "2025-12-03T04:52:54.885876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッドラッカー",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/01_グッドラッカー_美波.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グッドラッカー",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/02_グッドラッカー_美波.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グッドラッカー",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/03_グッドラッカー_Minami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッドラッカー",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_01_グッドラッカー_美波.txt"
+    }
+  ]
+}
